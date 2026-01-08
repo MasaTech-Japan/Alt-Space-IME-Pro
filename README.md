@@ -1,4 +1,4 @@
-# Alt-Space-IME-Pro v1.8
+# Alt Space IME Pro v1.8
 
 **「不便」を「便利」に。日本語入力を劇的にスムーズにするツール。**
 
