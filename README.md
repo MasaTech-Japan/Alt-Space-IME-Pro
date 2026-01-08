@@ -25,7 +25,7 @@ Macのように左右のAltキー単体でIMEのオン・オフを切り替え�
 - `Ctrl + Alt + Q` : アプリの終了
 
 <p align="center">
-  <img src="SnapCrab_NoName_2026-1-8_16-58-39_No-00.png" width="380px">
+  <img src="SnapCrab_NoName_2026-1-8_16-58-39_No-00.png" width="300px">
 </p>
 
 ## 🚀 使用方法
