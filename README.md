@@ -24,6 +24,10 @@ Macのように左右のAltキー単体でIMEのオン・オフを切り替え�
 - `Ctrl + Alt + R` : IME状態のリセット
 - `Ctrl + Alt + Q` : アプリの終了
 
+<p align="center">
+  <img src="SnapCrab_NoName_2026-1-8_16-58-39_No-00.png" width="500px">
+</p>
+
 ## 🚀 使用方法
 1. [Releases](https://github.com/MasaTech-Japan/Alt-Space-IME-Pro/releases) から最新の `AltSpaceIME_v1.8.exe` をダウンロードしてください。
 2. 実行するとタスクトレイにアイコンが表示され、すぐに使えます。
